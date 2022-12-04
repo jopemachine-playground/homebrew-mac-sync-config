@@ -6,7 +6,7 @@ class MacSyncConfig < Formula
 
   depends_on "go" => :build
 
-	head do
+  head do
     url "https://github.com/jopemachine/mac-sync-config.git", :branch => "master"
   end
 
