@@ -1,11 +1,5 @@
-# Jopemachine Mac-sync-config
+# `mac-sync-config` formula
 
-## How do I install these formulae?
+## Related
 
-`brew install jopemachine/mac-sync-config/<formula>`
-
-Or `brew tap jopemachine/mac-sync-config` and then `brew install <formula>`.
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+- [mac-sync-config](https://github.com/jopemachine/mac-sync-config)
